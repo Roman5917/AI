@@ -1,0 +1,42 @@
+# Python environments and caches
+.venv/
+venv/
+.vendor/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Generated data, experiment output and local verification records
+/dry_bean_prepared.npz
+/dataset_metadata.json
+/results_v2/
+/figures/
+/audit/
+
+# Academic documents and their local build tools
+/deliverables/
+*.docx
+*.pptx
+*.pdf
+*.zip
+/CHECKS.md
+/requirements-documents.txt
+/audit_sources.py
+/build_documents.py
+/build_presentation.py
+/export_office.py
+/finalize_project.py
+/inspect_exports.py
+/verify_documents.py
+/polish_documents.py
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*
+*~

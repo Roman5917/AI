@@ -1,0 +1,11 @@
+# Versions actually used for the 20 Windows / Python 3.12 CPU runs.
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.15.2
+scikit-learn==1.8.0
+matplotlib==3.10.1
+openpyxl==3.1.5
+torch==2.9.1
+tensorflow==2.21.0
+paddlepaddle==3.3.0
+mindspore==2.10.0
